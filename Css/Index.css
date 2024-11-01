@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(105, 218, 224) ;
+    font-family: "Playwrite GB S", cursive;
+    font-size: 16px;
+    line-height: 20px;
+} 
+header{
+    background-color: rgb(163, 238, 242);
+    padding: 16px o;
+}
+header h1{
+    color: rgb(24, 21, 21);
+    font-size: 40px;
+    font-weight: 300;
+   font-style: cursive;
+   display: inline-block;
+   position: relative;
+   bottom: 3px;
+   margin-left: 10px;
+}
+nav{
+    background-color: rgb(127, 130, 210) ;
+    margin-bottom: 20px;
+} 
+nav ul{
+    list-style: none;
+    margin: o;
+    padding: o;
+    display: flex;
+}
+nav ul li{
+    flex-grow: 1;
+}
+nav ul li a{
+    color: black;
+    text-decoration: wavy;
+    padding: 3px 6px ;
+    display: block;
+    text-align: center;
+}
+nav ul li a:hover{
+    background-color: rgba(0, 0, 0, 0.925);
+}
+footer{
+    background-color: #ccc;
+    clear: both;
+    color: #333;
+    text-align: center;
+    padding: 5px o;
+    margin-top: 20px;
+}
+nav ul li a.activo{
+    background-color: rgb(106, 109, 210)  ;
+}
+holder{
+    max-width: 960px;
+    margin: o auto;
+}
+h2{
+    color: lightyellow;
+    font-weight: 400;
+}
+
+/*inicio inicio */
+.Bienvenidos{
+    width: 75%;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.columnas{
+    display:flex ;
+    justify-content: space-evenly;
+
+}
+.Ingredientes{width: 25%;
+    background-color: rgb(72, 166, 209);
+
+}
+.Preparacion{
+    background-color: aquamarine;
+    padding: 16px;
+    width: 400px;
+    height: 400px;
+
+}
+
+/*fin Inicio*/
+
+/*Inicio ReDul*/
+
+/* Fin REDul*/
