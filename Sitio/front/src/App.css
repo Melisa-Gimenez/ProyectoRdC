@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(105, 218, 224) ;
+  font-family: "Playwrite GB S", cursive;
+  font-size: 16px;
+  line-height: 20px;
+} 
+holder{
+  max-width: 960px;
+  margin: o auto;
+}
+h2{
+  color: lightyellow;
+  font-weight: 400;
+}
